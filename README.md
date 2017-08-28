@@ -1,4 +1,4 @@
-# Notes and assets from the talk at Boston AI Meetup 8/29/2017
+# Resources for Unboxing ML Models
 The slides are in the repo above. 
 ## Useful Links
 ### HDF5 Viewers

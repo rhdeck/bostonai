@@ -1,7 +1,7 @@
 # Resources for Unboxing ML Models
 From @rhdeck talk at Boston AI Meetup 8/29/2017
 
-[Slides from my Boston AI Meetup Talk](RHD Boston AI Meetup 082917.pptx)
+[Slides from my Boston AI Meetup Talk](https://github.com/rhdeck/bostonai/blob/master/RHD%20Boston%20AI%20Meetup%20%20082917.pptx)
 ## Useful Links
 ### HDF5 Viewers
  - Panoply; https://www.giss.nasa.gov/tools/panoply/ (Best for reading headers and getting charts from the stored data)
